@@ -1,0 +1,16 @@
+{
+    "id": "6eb4b599-e68b-4b46-85b7-d5e0e1f7c553",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "ctx",
+        "homepage": "ctx",
+        "support": "ctx"
+    },
+    "name": "ctxbar-example",
+    "nameSlug": "ctxbar-example",
+    "classFile": "CtxbarExampleApp.ts",
+    "description": "ctx",
+    "implements": []
+}
